@@ -7,7 +7,7 @@ do
        sleep 1
 done
 
-# Sleep an additional 20s to ensure init is finished
-sleep 20
+# Sleep an additional 40s to ensure init is finished
+sleep 40
 
 service call SurfaceFlinger 1022 f 2.0
