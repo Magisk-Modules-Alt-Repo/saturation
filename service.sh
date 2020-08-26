@@ -10,4 +10,4 @@ done
 # Sleep an additional 20s to ensure init is finished
 sleep 20
 
-service call SurfaceFlinger 1022 f 1.5
+service call SurfaceFlinger 1022 f 2.0
